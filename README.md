@@ -30,4 +30,4 @@ perfect count = 2
 odd count = 7
 even count = 3
 perfect count = 2
-Press any key to continue...perfect count = 1
+
